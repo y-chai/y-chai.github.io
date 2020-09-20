@@ -7,7 +7,7 @@ header:
   overlay_image: /images/agriculture.jpg
   actions:
     - label: "<i class='fas fa-download'></i> Curriculum Vitae"
-      url: "/cv/"
+      url: "/cv"
 excerpt: >
   As an agricultural and applied economist with background in biology and plant pathology, research focuses on agricultural innovation, production, productivity, and the bio-economics of crop varietal change and production risk. 
 # feature_row:
