@@ -1,16 +1,14 @@
 ---
 layout: splash
 permalink: /
-title: "Yuan Chai"
+title: "Welcome"
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
   overlay_image: "/images/agriculture.jpg"
-  actions:
-    - label: "Download"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop. [Button](https://github.com/mmistakes/minimal-mistakes/){: .btn .btn--primary}"
+  caption: "Photo credit: [Pixabay](https://pixabay.com/photos/nature-landscape-field-agriculture-213364/)"
+excerpt: "My research focuses on agricultural innovation, production, productivity, and the bio-economics of crop varietal change and production risk management. <br />
+[Curriculum Vitae](/cv/){: .btn .btn--inverse}"
 
 
   

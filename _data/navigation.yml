@@ -8,5 +8,5 @@ main:
     url: /teaching/ 
   - title: "CV"
     url: /cv/  
-  - title: "Test"
-    url: /splash-test/  
+  # - title: "Test"
+  #   url: /splash-test/  
