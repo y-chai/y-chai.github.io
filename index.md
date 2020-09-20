@@ -1,13 +1,13 @@
 ---
 layout: splash
 permalink: /
-title: "Applied Economist"
+title: "Agricultural and Applied Economist"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /images/agriculture.jpg
   caption: "Photo credit: [Pixabay](https://pixabay.com/photos/nature-landscape-field-agriculture-213364/)"
-excerpt: "With a PhD degree in Agricultural and Applied Economis and a MS degree in Plant Pathology, my research takes an inter-desciplinary approach to address challenges in agricultural production and agricultural risk management.  <br /> <br />
+excerpt: "With a PhD degree in Applied Economis and a MS degree in Plant Pathology, my research takes an inter-desciplinary approach to address challenges in agricultural production and agricultural risk management.  <br /> <br />
 [Curriculum Vitae]({{ site.url }}{{ site.baseurl }}/cv){: .btn .btn--primary}"
 feature_row:
   - image_path: /images/bio-photo-yc2.jpg

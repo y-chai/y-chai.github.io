@@ -9,4 +9,4 @@ author_profile: true
 
 Download my [CV]({{ site.url }}{{ site.baseurl }}/assets/docs/ChaiCV.pdf)
 
-<embed src="https://github.com/y-chai/personal-site/blob/master/assets/docs/ChaiCV.pdf" width="100%"/>
+<embed src="https://y-chai.github.io/personal-site/assets/docs/ChaiCV.pdf" width="100%"/>
