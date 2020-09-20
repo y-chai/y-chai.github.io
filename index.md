@@ -13,7 +13,7 @@ feature_row:
   - image_path: /images/bio-photo-yc2.jpg
     alt: "About"
     title: "About Me"
-    excerpt: "Agro-economist working at the University of Minnesota"
+    excerpt: "Agricultural and Applied Economist"
     url: "/about/"
     btn_class: "btn--info"
     btn_label: "Learn more"
