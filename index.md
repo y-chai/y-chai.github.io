@@ -3,12 +3,15 @@ layout: splash
 permalink: /
 title: "Yuan Chai"
 header:
-  overlay_color: "#5e616c"
+  overlay_color: "#000"
+  overlay_filter: "0.5"
   overlay_image: "/images/agriculture.jpg"
   actions:
-    - label: "Curriculum Vitae"
-      url: "/docs/quick-start-guide/"
-excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.20.2">Latest release v4.20.2</a></small>  
+    - label: "Download"
+      url: "https://github.com/mmistakes/minimal-mistakes/"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+intro: 
+  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  
 ---
