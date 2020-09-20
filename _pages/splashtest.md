@@ -6,7 +6,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: "/images/agriculture.jpg"
   actions:
-    - label: "<i class='fas fa-download'></i> Install now"
+    - label: "<i class='fas fa-download'>Curriculum Vitae</i>"
       url: "/docs/quick-start-guide/"
 excerpt: >
   A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
