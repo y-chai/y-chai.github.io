@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Yuan Chai"
-  avatar           : "/images/bio-photo-yc.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/bio-photo-yc2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Agricultural Economist"
   location         : "University of Minnesota"
   email            : "chaix026@umn.edu"
