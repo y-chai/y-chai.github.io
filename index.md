@@ -7,29 +7,29 @@ header:
   overlay_filter: "0.5"
   overlay_image: /images/agriculture.jpg
   caption: "Photo credit: [Pixabay](https://pixabay.com/photos/nature-landscape-field-agriculture-213364/)"
-excerpt: "With a PhD degree in Applied Economis and a MS degree in Plant Pathology, my research takes an inter-desciplinary approach to address challenges in agricultural production and agricultural risk management.  <br /> <br />
+excerpt: "With a PhD degree in Applied Economics and a MS degree in Plant Pathology, my research takes an inter-disciplinary approach to address challenges in agricultural production and agricultural risk management.  <br /> <br />
 [Curriculum Vitae](/personal-site/cv/){: .btn .btn--primary}"
 feature_row:
   - image_path: /images/bio-photo-yc2.jpg
     alt: "About"
     title: "About Me"
-    excerpt: "Agricultural and applied economist"
+    excerpt: "Agro-economist working at the University of Minnesota"
     url: "/about/"
-    btn_class: "btn--primary"
+    btn_class: "btn--info"
     btn_label: "Learn more"
   - image_path: /images/2Blades/2blades-wheat-square.jpg
     alt: "My Research"
     title: "My Research"
     excerpt: "Active and past research projects"
     url: "/research/"
-    btn_class: "btn--primary"
+    btn_class: "btn--info"
     btn_label: "Learn more"
   - image_path: /images/teaching/teach-cover.jpg
     alt: "My Teaching"
     title: "My Teaching"
     excerpt: "Teaching experience"
     url: "/teaching"
-    btn_class: "btn--primary"
+    btn_class: "btn--info"
     btn_label: "Learn more"  
 ---
 
