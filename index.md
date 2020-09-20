@@ -4,11 +4,11 @@ permalink: /
 title: "Welcome"
 header:
   overlay_color: "#000"
-  overlay_filter: "0.3"
+  overlay_filter: "0.5"
   overlay_image: /images/agriculture.jpg
   caption: "Photo credit: [Pixabay](https://pixabay.com/photos/nature-landscape-field-agriculture-213364/)"
 excerpt: "My research focuses on agricultural innovation, production, productivity, and the bio-economics of crop varietal change and production risk management.  <br /> <br />
-[Curriculum Vitae]({{ site.url }}{{ site.baseurl }}/cv/){: .btn .btn--primary}"
+[Curriculum Vitae](/cv/){: .btn .btn--primary}"
 feature_row:
   - image_path: /images/2Blades/2blades-wheat.jpg
     alt: "My Research"
