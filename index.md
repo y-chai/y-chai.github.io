@@ -4,7 +4,7 @@ permalink: /
 title: "Agricultural and Applied Economist"
 header:
   overlay_color: "#000000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.7"
   overlay_image: /images/agriculture3.jpg
   caption: "Photo credit: [Pixabay](https://pixabay.com/photos/wheat-wheat-field-cereals-175960/)"
 excerpt: "With a PhD degree in Applied Economics and a MS degree in Plant Pathology, my research takes an inter-disciplinary approach to address challenges in agricultural production and agricultural risk management.  <br /> <br />
@@ -15,21 +15,21 @@ feature_row:
     title: "About Me"
     excerpt: "Agricultural and Applied Economist"
     url: "/about/"
-    btn_class: "btn--info"
+    btn_class: "btn--success"
     btn_label: "Learn more"
   - image_path: /images/2Blades/2blades-wheat-square.jpg
     alt: "My Research"
     title: "My Research"
     excerpt: "Active and past research projects"
     url: "/research/"
-    btn_class: "btn--info"
+    btn_class: "btn--success"
     btn_label: "Learn more"
   - image_path: /images/teaching/teach-cover.jpg
     alt: "My Teaching"
     title: "My Teaching"
     excerpt: "Teaching experience"
     url: "/teaching"
-    btn_class: "btn--info"
+    btn_class: "btn--success"
     btn_label: "Learn more"  
 ---
 
