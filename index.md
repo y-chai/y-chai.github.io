@@ -6,7 +6,7 @@ header:
   overlay_color: "#000000"
   overlay_filter: "0.5"
   overlay_image: /images/agriculture3.jpg
-  caption: "Photo credit: [Pixabay](https://pixabay.com/photos/clouds-field-landscape-nature-sky-1853434/)"
+  caption: "Photo credit: [Pixabay](https://pixabay.com/photos/wheat-wheat-field-cereals-175960/)"
 excerpt: "With a PhD degree in Applied Economics and a MS degree in Plant Pathology, my research takes an inter-disciplinary approach to address challenges in agricultural production and agricultural risk management.  <br /> <br />
 [Curriculum Vitae](/personal-site/cv/){: .btn .btn--primary}"
 feature_row:
