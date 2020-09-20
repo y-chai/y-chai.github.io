@@ -1,5 +1,8 @@
 ---
-layout: splash
+layout: posts
+permalink: /data-wrangling/
+title: "Data Wrangling projects"
+author_profile: true
 header:
-  image: "/images/2Blades/2blades-wheat-banner.jpg"
+  image: "/images/fort point.png"
 ---
