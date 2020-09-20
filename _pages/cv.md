@@ -7,4 +7,6 @@ author_profile: true
 #   image: "/images/fort point.png"
 ---
 
-Download my ![alt]({{ site.url }}{{ site.baseurl }}/docs/YUAN-CHAI-CV.pdf)
+Download my [CV]({{ site.url }}{{ site.baseurl }}/assets/docs/ChaiCV.pdf)
+
+<embed src="https://sumanbogati.github.io/sample.pdf" type="application/pdf" />
