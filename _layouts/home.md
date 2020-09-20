@@ -1,7 +1,5 @@
 ---
 layout: splash
-permalink: / 
 header:
-  overlay_color: "#5e616c"
-  overlay_image: "/images/agriculture.jpg" 
+  image: "/images/2Blades/2blades-wheat-banner.jpg"
 ---
