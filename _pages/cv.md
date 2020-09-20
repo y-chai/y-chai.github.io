@@ -7,4 +7,4 @@ author_profile: true
 #   image: "/images/fort point.png"
 ---
 
-Download my [CV] ({{ site.url }}{{ site.baseurl }}/docs/YUAN-CHAI-CV.pdf)
+Download my ![CV] ({{ site.url }}{{ site.baseurl }}/docs/YUAN-CHAI-CV.pdf)
