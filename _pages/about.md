@@ -5,7 +5,7 @@ permalink: /about/
 #   image: "/images/zakim.jpg"
 ---
 
-I am a Chinese national and received my MS degree in plant pathology and PhD in applied economics, both at the University of Minnesota. As a plant pathologist I studied rust resistance genetics in barley. As an agricultural economist my research focuses on agricultural innovation, production, productivity, and the bio-economics of crop varietal change and production risk. I currently work as an agro-economist at the [GEMS Informatics Center](https://agroinformatics.org/), University of Minnesota.
+I received my MS degree in plant pathology and PhD in applied economics, both at the University of Minnesota. As a plant pathologist I studied rust resistance genetics in barley. As an agricultural economist my research focuses on agricultural innovation, production, productivity, and the bio-economics of crop varietal change and production risk. I currently work as an agro-economist at the [GEMS Informatics Center](https://agroinformatics.org/), University of Minnesota.
 
 ## Education:  
 **University of Minnesota**  
