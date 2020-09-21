@@ -30,14 +30,14 @@ Department of Plant Pathology, University of Minnesota
 ## High school biology class
 Volunteer TA, Spring 2011  
 Murray Junior High School, Saint Paul, MN  
-*Volunteering as teaching assistant for middle school biology class*  
+*Volunteer teaching assistant for middle school biology class*  
 
 ## Middle school biology class
 Volunteer Teacher, May 2006  
 Taijing Middle School, Beijing, China  
-*Volunteering as teacher for middle school biology class*  
+*Volunteer teacher for middle school biology class*  
 
 ## Middle school volunteer teacher
 Volunteer Teacher, Summer 2005  
 Qinghai Province, China  
-*Volunteer teacher for middle schools for teaching and education*  
+*Volunteer teacher at middle schools for teaching and education*  
