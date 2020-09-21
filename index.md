@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 title: "Agricultural and Applied Economist"
 header:
-  overlay_color: "#d95f0e"
+  overlay_color: "#636363"
   overlay_filter: "0.7"
   overlay_image: /images/agriculture3.jpg
   caption: "Photo credit: [Pixabay](https://pixabay.com/photos/wheat-wheat-field-cereals-175960/)"
