@@ -10,7 +10,7 @@ author_profile: true
 ## Research areas:  
 
 <details>
-<summary><b>Agricultural risk management</b></summary>
+<summary><b style="color:grey">Agricultural risk management</b></summary>
 <p style="color:grey">Agricultural production is an intrinsically risky business that constantly faces many sources of risks, such as production risks, market risks, institutional risks, and personal risks. To cope with agricultural risks, farmers rely on a number of technical and institutional options, including a variety of farm management practices, fertilizer and pesticide use, irrigation, disease monitoring, as well as crop insurance. My current research takes an integrated, bio-economic approach to assessing the role of these various risk management strategies in improving farmers’ welfare and helping to secure global food supplies. </p>
 <br>
 </details>  
