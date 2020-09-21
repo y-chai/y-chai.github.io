@@ -16,7 +16,7 @@ I am a Chinese national and received my MS degree in plant pathology and PhD in 
 * **BS**, *Department of Biological Sciences* (2004-2008)  
 
 ## Publications:  
-[Google Scholar Link](https://scholar.google.com/citations?user=xbBwIeoAAAAJ&hl=en&oi=ao)
+[Google Scholar](https://scholar.google.com/citations?user=xbBwIeoAAAAJ&hl=en&oi=ao)
 
 ## Computer skills:  
 R; Python; MATLAB; STATA; ArcGIS; CLIMEX
