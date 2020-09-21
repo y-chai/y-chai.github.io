@@ -1,13 +1,13 @@
 ---
 layout: posts
 permalink: /research/
-title: ""
+title: "Research"
 author_profile: true
 # header:
 #   image: "/images/fort point.png"
 ---
 
-## Research areas:  
+# Research areas:  
 
 <details>
 <summary>Agricultural risk management</summary>
@@ -28,4 +28,4 @@ author_profile: true
 
 ***  
 
-## Research projects  
+# Research projects  
