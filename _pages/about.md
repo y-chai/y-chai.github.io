@@ -12,5 +12,15 @@ I am a Chinese national and received my MS degree in plant pathology and PhD in 
 **MS**, *Department of Plant Pathology, University of Minnesota* (2008-2010)
 **BS**, *Department of Biological Sciences, Tsinghua University, Beijing, China* (2004-2008)  
 
-##
+## Publications:  
+[Google Scholar Link](https://scholar.google.com/citations?user=xbBwIeoAAAAJ&hl=en&oi=ao)
+
+## Computer skills:  
+R; Python; MATLAB; STATA; ArcGIS; CLIMEX
+
+## Languages:  
+Mandarin Chinese (native); English (fluent)
+
+## Interests & Hobbies:  
+Roadtrips; Hiking; Skating; Skiing; National Parks
 
