@@ -28,4 +28,4 @@ author_profile: true
 
 ***  
 
-## Research projects{: style="color: grey;" } 
+<h2 style="color:grey">Research projects</h2>
