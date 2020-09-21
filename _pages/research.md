@@ -7,7 +7,7 @@ author_profile: true
 #   image: "/images/fort point.png"
 ---
 
-## Research areas{: style="color: grey;" } 
+<h2 style="color:grey">Research areas</h2>
 
 <details>
 <summary>Agricultural risk management</summary>
