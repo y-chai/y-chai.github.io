@@ -7,7 +7,15 @@ author_profile: true
 #   image: "/images/fort point.png"
 ---
 
-## Research area:  
+### Active research area:  
+
+<details>
+<summary>Agricultural risk management</summary>
+<p>
+Agricultural production is an intrinsically risky business that constantly faces many sources of risks, such as production risks, market risks, institutional risks, and personal risks. To cope with agricultural risks, farmers rely on a number of technical and institutional options, including a variety of farm management practices, fertilizer and pesticide use, irrigation, disease monitoring, as well as crop insurance. My current research takes an integrated, bio-economic approach to assessing the role of these various risk management strategies in improving farmers’ welfare and helping to secure global food supplies. 
+<br>
+<p>
+</details>
 
 * **Agricultural risk management**  
 Agricultural production is an intrinsically risky business that constantly faces many sources of risks, such as production risks, market risks, institutional risks, and personal risks. To cope with agricultural risks, farmers rely on a number of technical and institutional options, including a variety of farm management practices, fertilizer and pesticide use, irrigation, disease monitoring, as well as crop insurance. My current research takes an integrated, bio-economic approach to assessing the role of these various risk management strategies in improving farmers’ welfare and helping to secure global food supplies. 
