@@ -13,7 +13,7 @@ feature_row:
   - image_path: /images/bio-photo-yc2.jpg
     alt: "About"
     title: "About"
-    excerpt: "Agricultural and Applied Economist"
+    excerpt: "Academic and personal introductions"
     url: "/about/"
     btn_class: "btn--success"
     btn_label: "Learn more"
