@@ -1,7 +1,7 @@
 ---
 layout: posts
 permalink: /research/
-title: #"Research"
+title: ""
 author_profile: true
 # header:
 #   image: "/images/fort point.png"
