@@ -7,20 +7,37 @@ author_profile: true
 #   image: "/images/fort point.png"
 ---
 
+## R for Applied Economics Short Course
+*Instructor, September 2019*  
+*School of Business Administration, Zhongnan University of Economics and Law, Wuhan, Hubei Province, China*  
+Instructor for R software workshops. Independently developed course materials and conducted two workshops to teach graduate students on how to use R for applied economics research with hands-on computer sessions.
+
 ## APEC 8601 Natuaral Resource Economics
 *TA, Fall 2016*  
 *Department of Applied Economics, University of Minnesota*  
-
 Assisted in preparing and grading homework. Independently prepared and lectured two classes on optimal control theory and numerical methods  
 
 ## Introduction to Numerical Analysis Software
 *Instructor, Summer 2016*  
 *Department of Applied Economics, University of Minnesota*  
-
 Instructor for summer short course on MATLAB software. Independently developed the syllabus, conducted lectures, led computer lab sessions and prepared and graded homework.  
 
-## CFANS 3001 Pests and Crop Protection, 
+## CFANS 3001 Pests and Crop Protection
 *TA, Spring 2010*  
 *Department of Plant Pathology, University of Minnesota*  
-
 Led lab sections on identifying plant diseases; assisted all lab preparations; graded assignments. Also lectured one class on crop disease management strategies.
+
+## High school biology class
+*Volunteer TA, Spring 2011*  
+*Murray Junior High School, Saint Paul, MN*  
+Volunteering as teaching assistant for middle school biology class
+
+## Middle school biology class
+*Volunteer Teacher, May 2006*  
+*Taijing Middle School, Beijing, China*  
+Volunteering as teacher for middle school biology class  
+
+## Middle school volunteer teacher
+*Volunteer Teacher, Summer 2005*  
+*Qinghai Province, China*  
+Volunteer teacher for middle schools for teaching and education
