@@ -4,7 +4,7 @@ permalink: /
 title: "Agricultural and Applied Economist"
 header:
   overlay_color: "#636363"
-  overlay_filter: "0.5"
+  overlay_filter: "0.3"
   overlay_image: /images/agriculture3.jpg
   caption: "Photo credit: [Pixabay](https://pixabay.com/photos/wheat-wheat-field-cereals-175960/)"
 excerpt: "My research takes an inter-disciplinary approach to address challenges in agricultural production and agricultural risk management.  <br /> <br />
