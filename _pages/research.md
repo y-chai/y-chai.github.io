@@ -27,11 +27,8 @@ author_profile: true
 </details>  
 
 ***
-
 <h2 style="color:grey">Publications</h2>
 [Google Scholar](https://scholar.google.com/citations?user=xbBwIeoAAAAJ&hl=en)
-
-
 ***  
 
 <h2 style="color:grey">Research projects</h2>

@@ -7,6 +7,21 @@ author_profile: true
 #   image: "/images/fort point.png"
 ---
 
+## Introduction to Data Analysis in R
+Instructor, 2022, 2023
+GEMS Informatics Center, University of Minnesota
+*Introductory workshop designed for those who are new to R and are interested in learning the basics of using R for data analysis*
+
+## Spatial Data Analysis in R
+Co-Instructor, 2022, 2023
+GEMS Informatics Center, University of Minnesota
+*Workshop series on how to work with spatial data in R, starting from importing different spatial datasets and creating simple maps, to conducting basic geocomputation on vector and raster data.*
+
+## Big Data Methods in Economics
+Guest Lecturer, Fall 2021
+Department of Applied Economics, University of Minnesota  
+*Guest lecturer on spatial data analysis in R for graduate students in applied economics*
+
 ## R for Applied Economics Short Course
 Instructor, September 2019  
 School of Business Administration, Zhongnan University of Economics and Law, Wuhan, Hubei Province, China  
