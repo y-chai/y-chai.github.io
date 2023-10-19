@@ -26,6 +26,12 @@ author_profile: true
 <p style="color:grey">Investment in agricultural innovation plays an important role in maintaining and improving agricultural productivity for sustainable development. The global landscape of investment in agricutlural research and development (R&D) changes over time, which have siginficant impact on global food supply and economic development. My research investigates both the historical and future trends in global agricultural R&D investments and explores their social and economic implications. </p>
 </details>  
 
+***
+
+<h2 style="color:grey">Publications</h2>
+[Google Scholar](https://scholar.google.com/citations?user=xbBwIeoAAAAJ&hl=en)
+
+
 ***  
 
 <h2 style="color:grey">Research projects</h2>
