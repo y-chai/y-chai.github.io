@@ -9,12 +9,12 @@ author_profile: true
 
 ## Introduction to Data Analysis in R
 Instructor, 2022, 2023
-GEMS Informatics Center, University of Minnesota
+GEMS Informatics Center, University of Minnesota  
 *Introductory workshop designed for those who are new to R and are interested in learning the basics of using R for data analysis*
 
 ## Spatial Data Analysis in R
 Co-Instructor, 2022, 2023
-GEMS Informatics Center, University of Minnesota
+GEMS Informatics Center, University of Minnesota  
 *Workshop series on how to work with spatial data in R, starting from importing different spatial datasets and creating simple maps, to conducting basic geocomputation on vector and raster data.*
 
 ## Big Data Methods in Economics
