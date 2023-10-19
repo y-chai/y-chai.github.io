@@ -3,8 +3,8 @@ title: "Wheat Multi-Trait Predictions: A Quantitative, Genotype x Environment (G
 date: 2022-01-01
 tags: [wheat, agriculture, analytics, bio-economic modeling]
 header:
-  image: "https://mnwheat.org/council/wp-content/uploads/sites/3/2020/08/topimg-scaled.jpg"
-  caption: "Photo credit: [Minnesota Wheat Research and Promotion Council](https://mnwheat.org/council/) "
+  image: "/images/4DWheat/cover-wheat-field-banner.jpg"
+  caption: "Photo credit: Pixabay"
 excerpt: "Developing a wheat multi-trait prediction tool to aid with the breeding of wheat varieties for MN farmers"
 mathjax: "true"
 ---
