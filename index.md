@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.3"
   overlay_image: /images/agriculture3.jpg
   caption: "Photo credit: [Pixabay](https://pixabay.com/photos/wheat-wheat-field-cereals-175960/)"
-excerpt: "My research takes an inter-disciplinary approach to address challenges in agricultural production and agricultural risk management.  <br /> <br />
+excerpt: "Ph.D. in applied economics with 5+ years of teaching and research experience in addressing challenges in agricultural production and agricultural risk management.  <br /> <br />
 [Curriculum Vitae](/cv/){: .btn .btn--primary}"
 feature_row:
   - image_path: /images/bio-photo-yc2.jpg
